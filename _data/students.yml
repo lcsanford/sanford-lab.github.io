@@ -8,12 +8,12 @@
 #  education3:
 #  education4:
 
-# - name: Thijs van den Munckhof
-#   photo: rock.jpg
-#   info: Master student
-#   email: m.ortego.larrazabal@umail.leidenuniv.nl
-#   number_educ: 0
-#   education1:
+- name: Lauren Salzman
+  photo: rock.jpg
+  info: Undergraduate Researcher at Yale University
+  email: lauren.salzman@yale.edu
+  number_educ: 1
+  education1:
 
 # - name: João van der Ven
 #   photo: rock.jpg
